@@ -1,1 +1,2 @@
 # leetCodejs
+this is leetcode 
